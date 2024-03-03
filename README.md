@@ -70,4 +70,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ################################ Starting Project specific details####################
-Finally solved
+1. Tailwindcss : npm i -D tailwindcss
+2. setup tailwind config for reactapp : https://tailwindcss.com/docs/guides/create-react-app
+
+############################# UI design #############################
+1. 
+- Header
+- Body
+--- Sidebar
+      Menu
+--- Maincontainer
+      ButtonList
+      VideoContainer
+        VideoCards
+
+2. How to add Icons in VS code itself : use your operating system keyboard shortcut.
+3. when editing text: windows: Windows logo key + . (period) , mac : command + control + space
