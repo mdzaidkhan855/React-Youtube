@@ -86,3 +86,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 2. How to add Icons in VS code itself : use your operating system keyboard shortcut.
 3. when editing text: windows: Windows logo key + . (period) , mac : command + control + space
+
+##########################  Firebase Deployment ######################################
+
+1. firebase login
+2. npm install -g firebase-tools
+3. firebase init
+4. npm run build
+5. firebase deploy
