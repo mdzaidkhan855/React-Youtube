@@ -13,7 +13,7 @@ const Demo = () => {
     //  However,this method NOT called for the same value of text
     const nthPrimeNumber = useMemo(()=> {
         console.log("Calculating Primenumber for : " + text);
-        findNthPrime(text)
+        return findNthPrime(text)
     },[text]);
     
   return (
